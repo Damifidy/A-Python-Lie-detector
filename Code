@@ -1,0 +1,6 @@
+name = True
+answer = input("Do you have a name? ")
+if answer == "yes":
+    print(name)
+elif answer == "no":
+    print(False)
